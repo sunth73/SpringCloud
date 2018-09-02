@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: application_client # githup需要的资源文件名(及yml配置文件，不加.yml)
+      profile: dev #本次访问配置项
+      label: master
+      uri: http://localhost:3344

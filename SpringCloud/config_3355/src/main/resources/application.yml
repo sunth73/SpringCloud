@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: application_client # 可以不写，需要写的话就写 githup需要的资源文件名

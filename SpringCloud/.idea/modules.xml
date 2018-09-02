@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_3344/config_3344.iml" filepath="$PROJECT_DIR$/config_3344/config_3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_3355/config_3355.iml" filepath="$PROJECT_DIR$/config_3355/config_3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-hystrix-dashboard_8004/consumer-hystrix-dashboard_8004.iml" filepath="$PROJECT_DIR$/consumer-hystrix-dashboard_8004/consumer-hystrix-dashboard_8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer_8001/customer_8001.iml" filepath="$PROJECT_DIR$/customer_8001/customer_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer_feign_8002/customer_feign_8002.iml" filepath="$PROJECT_DIR$/customer_feign_8002/customer_feign_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer_feign_hystrix_8003/customer_feign_hystrix_8003.iml" filepath="$PROJECT_DIR$/customer_feign_hystrix_8003/customer_feign_hystrix_8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server_8761/eureka_server_8761.iml" filepath="$PROJECT_DIR$/eureka_server_8761/eureka_server_8761.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server_8762/eureka_server_8762.iml" filepath="$PROJECT_DIR$/eureka_server_8762/eureka_server_8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server_8763/eureka_server_8763.iml" filepath="$PROJECT_DIR$/eureka_server_8763/eureka_server_8763.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server_config_8764/eureka_server_config_8764.iml" filepath="$PROJECT_DIR$/eureka_server_config_8764/eureka_server_config_8764.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-zuul-fallback/gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/gateway-zuul-fallback/gateway-zuul-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_8081/provider_8081.iml" filepath="$PROJECT_DIR$/provider_8081/provider_8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_8082/provider_8082.iml" filepath="$PROJECT_DIR$/provider_8082/provider_8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_8083/provider_8083.iml" filepath="$PROJECT_DIR$/provider_8083/provider_8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_config_8084/provider_config_8084.iml" filepath="$PROJECT_DIR$/provider_config_8084/provider_config_8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_hystrix_8084/provider_hystrix_8084.iml" filepath="$PROJECT_DIR$/provider_hystrix_8084/provider_hystrix_8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_hystrix_8085/provider_hystrix_8085.iml" filepath="$PROJECT_DIR$/provider_hystrix_8085/provider_hystrix_8085.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_9527/zuul_9527.iml" filepath="$PROJECT_DIR$/zuul_9527/zuul_9527.iml" />
+    </modules>
+  </component>
+</project>

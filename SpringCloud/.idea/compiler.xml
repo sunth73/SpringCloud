@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config_3344" />
+        <module name="config_3355" />
+        <module name="consumer-hystrix-dashboard_8004" />
+        <module name="customer_8001" />
+        <module name="customer_feign_8002" />
+        <module name="customer_feign_hystrix_8003" />
+        <module name="eureka_server_8761" />
+        <module name="eureka_server_8762" />
+        <module name="eureka_server_8763" />
+        <module name="eureka_server_config_8764" />
+        <module name="gateway-zuul-fallback" />
+        <module name="provider_8081" />
+        <module name="provider_8082" />
+        <module name="provider_8083" />
+        <module name="provider_config_8084" />
+        <module name="provider_hystrix_8084" />
+        <module name="provider_hystrix_8085" />
+        <module name="zuul_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config_3344" target="1.8" />
+      <module name="config_3355" target="1.8" />
+      <module name="consumer-hystrix-dashboard_8004" target="1.8" />
+      <module name="customer_8001" target="1.8" />
+      <module name="customer_feign_8002" target="1.8" />
+      <module name="customer_feign_hystrix_8003" target="1.8" />
+      <module name="eureka_server_8761" target="1.8" />
+      <module name="eureka_server_8762" target="1.8" />
+      <module name="eureka_server_8763" target="1.8" />
+      <module name="eureka_server_config_8764" target="1.8" />
+      <module name="gateway-zuul-fallback" target="1.8" />
+      <module name="provider_8081" target="1.8" />
+      <module name="provider_8082" target="1.8" />
+      <module name="provider_8083" target="1.8" />
+      <module name="provider_config_8084" target="1.8" />
+      <module name="provider_hystrix_8084" target="1.8" />
+      <module name="provider_hystrix_8085" target="1.8" />
+      <module name="zuul_9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

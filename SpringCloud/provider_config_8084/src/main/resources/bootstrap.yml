@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: application_provider_8084
+      profile: dev
+      label: master
+      uri: http://localhost:3344
